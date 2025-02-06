@@ -1,2 +1,2 @@
 # Sign-Language-Detection
-Sign language detection project using python
+Sign language detection project using machine learning(python)
